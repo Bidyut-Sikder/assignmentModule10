@@ -1,0 +1,38 @@
+
+
+{
+    "email":"bidfjdfjagmail.com",
+    "firstName":"bidyhut",
+    "lastName":"sikder",
+    "mobile":"213223y6234",
+    "password":"bidyhutfdf",
+    "address":"dhaka",
+    "roll":"33",
+    "class":"five"
+}
+
+
+
+
+{
+        "title":"bidyhut",
+        "classNote":"213223y6234",
+        "description":"fdfdfdfdf",
+        "status":"active",
+        "email":"bidfjdfjagmail.com"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
